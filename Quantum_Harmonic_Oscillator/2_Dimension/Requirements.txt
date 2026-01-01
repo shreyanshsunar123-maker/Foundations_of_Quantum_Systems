@@ -1,0 +1,12 @@
+Requirements
+
+# Python
+- Python 3.10+ recommended
+
+# Libraries
+- numpy
+- scipy
+- matplotlib
+
+Install:
+pip install numpy scipy matplotlib
